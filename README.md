@@ -1,4 +1,4 @@
-# myBullsAndCowsGame
+# BullsAndCowsGame
 # How to play
 
 #A secret number is set randomly.

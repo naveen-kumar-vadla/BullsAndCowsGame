@@ -1,0 +1,19 @@
+{
+	"name": "bulls_and_cows_game",
+	"version": "1.0.0",
+	"description": "#A secret number is set randomly. #You Have to guess that number in given chances.  #The digits must be all different.  #For every chance it gives you the number of matches.  #If the matching digits are in their right positions, they are bulls,  #if they are in different positions, they are cows.  #Example: #-->Secret number: 5678  #-->Users entry: 8652 #-->Answer: 1 bull and 2 cows. (The bull is \"6\", the cows are \"5\" and \"8\".)",
+	"main": "index.js",
+	"scripts": {
+		"test": "awk -f naveen_bulls_and_cows.awk"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/naveenkumarvadla/myBullsAndCowsGame.git"
+	},
+	"author": "naveen kumar vadla",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/naveenkumarvadla/myBullsAndCowsGame/issues"
+	},
+	"homepage": "https://github.com/naveenkumarvadla/myBullsAndCowsGame#readme"
+}
