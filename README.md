@@ -6,6 +6,7 @@ You Have to guess that number in given chances.
 The digits must be all different.   
 For every chance it gives you the number of matches.   
 If the matching digits are in their right positions, they are bulls, if they are in different positions, they are cows.   
+
 Example:  
 -->Secret number: 5678   
 -->Users entry: 8652  
